@@ -170,11 +170,11 @@
 - [토끼네마굿간](https://store.naver.com/restaurants/detail?entry=plt&id=1112384421) :+1:
 > #드라이플라워 #엔쵸비파스타 #파스타맛집
 
-- [베라노](https://store.naver.com/restaurants/detail?id=1807809384)
-> ???
+- [베라노](https://store.naver.com/restaurants/detail?id=1807809384) :+1:
+> #와인 #감바스 #슬로우IPA
 
 ### 카페
-- [엘가커피](https://store.naver.com/restaurants/detail?id=37818385)
+- [엘가커피](https://store.naver.com/restaurants/detail?id=37818385) :coffee:
 > #핸드드립 #이쁜커피잔 #빵 #분위기좋은2층카페
 
 - [피움](https://store.naver.com/restaurants/detail?id=1088837534)
