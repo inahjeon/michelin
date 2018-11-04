@@ -48,6 +48,10 @@
 - [익스퀴진](https://store.naver.com/restaurants/detail?id=38781115) :+1::+1:
 > #파인다이닝 #한식 #존맛탱
 
+### 어린이대공원역
+- [빠오즈푸](https://store.naver.com/restaurants/detail?id=20757891) :+1:
+> #만두 #육즙 #존맛탱
+
 ### 삼성중앙역
 - [비야게레로](https://store.naver.com/restaurants/detail?entry=plt&id=36528809) :+1::+1::+1:
 > #멕시코요리 #타코 #수요미식회 #존맛탱
