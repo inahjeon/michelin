@@ -81,6 +81,10 @@
 
 ## 술집
 
+### 마곡나루역
+- [카이운](https://store.naver.com/restaurants/detail?id=1277254346) :beer::beer::beer:
+> #이자카야 #시그니처생선튀김미쳐버려 #왕비쌈
+
 ### 강남역
 - [더부스](https://store.naver.com/restaurants/detail?id=35592900) :beer:
 > #피맥 #항상존맛 #치킨은근존맛 #코나카드..
@@ -115,7 +119,24 @@
 
 ## 카페
 
-## 회사 근처 맛집 - 논현역
+## 회사 근처 맛집(2) - 여의도역
+**~~여의도는 근데 다 맛집임~~**
+
+### 밥집
+- [진주집](https://store.naver.com/restaurants/detail?id=11678773) :+1::+1:
+> #비빔국수 #콩국수
+
+- [신촌칼국수 동여의도점](https://store.naver.com/restaurants/detail?id=1041776972) :+1::+1:
+> #해장 #미나리 #버섯무한리필 #양념소스JMT
+
+- [깡장양곱창](https://store.naver.com/restaurants/detail?entry=pll&id=38556373) :+1::+1:
+> #곱창맛집 #볶음밥 #JMT
+
+### 카페
+- [커피코트 동여의도점](https://store.naver.com/restaurants/detail?id=1858603062) :coffee::coffee:
+> #1500원 #드립커피골라 #1800원 #더치커피골라 #압도적인가성비
+
+## 회사 근처 맛집(1) - 논현역
 ### 밥집
 - [세타이수루](https://store.naver.com/restaurants/detail?entry=plt&id=37754520) :+1:
 > #규카츠 #워터에이징 #화로 #존맛탱
