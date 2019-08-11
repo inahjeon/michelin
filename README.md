@@ -5,7 +5,7 @@
 맛집 리뷰를 위한 repository
 
 ### 지극히 주관적인 평가 기준
-- :+1:: 근처에 왔다면 갈만한 훌륭한 맛집
+- :+1:: 근처에 왔다면 갈만한 맛집
 
 - :+1::+1:: 멀리 찾아 갈 만한 훌륭한 맛집
 
@@ -27,14 +27,14 @@
 > #가성비 #신선한초밥
 
 ### 선릉역
-- [모범떡볶이](https://store.naver.com/restaurants/detail?id=36276816) :+1:
+- [모범떡볶이](https://store.naver.com/restaurants/detail?id=36276816)
 > #차돌떡볶이 #라면사리 #김말이
 
 - [돈그리아](https://store.naver.com/restaurants/detail?id=20685143) :+1::+1:
 > #제주돼지 #두껍이 #히말라야소금 #존맛탱
 
 ### 선정릉역
-- [능라도](https://store.naver.com/restaurants/detail?id=37274591) :+1::+1:
+- [능라도](https://store.naver.com/restaurants/detail?id=37274591) :+1:
 > #평양냉면 #온반 #존맛탱
 
 ### 신사역
@@ -42,28 +42,28 @@
 > #야끼소바 #오꼬노미야끼 #철판 #존맛탱
 
 - [미미면가](https://store.naver.com/restaurants/detail?entry=plt&id=21693586)
-> ????
+> ???? 안가봄
 
 ### 청담역
 - [익스퀴진](https://store.naver.com/restaurants/detail?id=38781115) :+1::+1:
 > #파인다이닝 #한식 #존맛탱
 
 ### 어린이대공원역
-- [빠오즈푸](https://store.naver.com/restaurants/detail?id=20757891) :+1:
+- [빠오즈푸](https://store.naver.com/restaurants/detail?id=20757891) :+1::+1:
 > #만두 #육즙 #존맛탱
 
 ### 삼성중앙역
 - [비야게레로](https://store.naver.com/restaurants/detail?entry=plt&id=36528809) :+1::+1::+1:
 > #멕시코요리 #타코 #수요미식회 #존맛탱
 
-> 선정 이유: 진짜 멕시코에서 팔 것만 같은 리얼 현지 타코 맛!
+> :+1::+1::+1: 선정 이유: 진짜 멕시코에서 팔 것만 같은 리얼 현지 타코 맛!
 
 ### 홍대입구역, 합정역
 - [오복수산](https://store.naver.com/restaurants/detail?id=37728675) :+1:
 > #카이센동 #사케동 #사케우니이쿠라동 #싱싱 #존맛탱
 
 - [서울동](https://store.naver.com/restaurants/detail?id=1154051555)
-> ??? #우니동
+> ??? 안가봄 #우니동
 
 ### 이태원역
 - [mishmash](https://store.naver.com/restaurants/detail?id=37929317) :+1::+1:
@@ -85,6 +85,8 @@
 - [카이운](https://store.naver.com/restaurants/detail?id=1277254346) :beer::beer::beer:
 > #이자카야 #시그니처생선튀김미쳐버려 #왕비쌈
 
+> :beer::beer::beer: 선정이유: 쉐프님의 훌륭한 안주와 맛있는 술. 사악한 가격만큼 맛있음.
+
 ### 강남역
 - [더부스](https://store.naver.com/restaurants/detail?id=35592900) :beer:
 > #피맥 #항상존맛 #치킨은근존맛 #코나카드..
@@ -93,11 +95,11 @@
 - [미켈러바](https://store.naver.com/restaurants/detail?id=36877874) :beer:
 > #수제맥주펍 #종류다양 #왕비쌈
  
-- [퐁당크래프트](https://store.naver.com/restaurants/detail?id=35553932)
+- ~[퐁당크래프트](https://store.naver.com/restaurants/detail?id=35553932) :beer:~ 사라짐..
 > #크래프트맥주 #꼬치안주 #오락실게임
 
-- [한추](https://store.naver.com/restaurants/detail?id=13358436)
-> ???!?
+- [한추](https://store.naver.com/restaurants/detail?id=13358436) :beer:
+> #고추튀김 #떡볶이 #소주n잔각
 
 ### 녹사평역
 - [성광대도](https://store.naver.com/restaurants/detail?id=38654057) :beer::beer:
@@ -107,7 +109,7 @@
 - [산울림1992](https://store.naver.com/restaurants/detail?id=13123910) :beer::beer::beer:
 > #전통주 #종류다양 #존맛탱
 
-> 선정 이유: 술 메뉴만 10페이지가 넘는 다양한 전통주 전문 술집
+> 선정 이유: 술 메뉴만 10페이지가 넘는 다양한 전통주 전문 술집. 그리고 맛있는 안주
 
 ### 종로3가역
 - [서울집시](https://store.naver.com/restaurants/detail?entry=plt&id=1311007811) :beer::beer:
@@ -123,17 +125,17 @@
 **~~여의도는 근데 다 맛집임~~**
 
 ### 밥집
-- [진주집](https://store.naver.com/restaurants/detail?id=11678773) :+1::+1:
+- [진주집](https://store.naver.com/restaurants/detail?id=11678773) :+1:
 > #비빔국수 #콩국수
 
-- [신촌칼국수 동여의도점](https://store.naver.com/restaurants/detail?id=1041776972) :+1::+1:
+- [신촌칼국수 동여의도점](https://store.naver.com/restaurants/detail?id=1041776972) :+1:
 > #해장 #미나리 #버섯무한리필 #양념소스JMT
 
-- [깡장양곱창](https://store.naver.com/restaurants/detail?entry=pll&id=38556373) :+1::+1:
+- [깡장양곱창](https://store.naver.com/restaurants/detail?entry=pll&id=38556373) :+1:
 > #곱창맛집 #볶음밥 #JMT
 
 ### 카페
-- [커피코트 동여의도점](https://store.naver.com/restaurants/detail?id=1858603062) :coffee::coffee:
+- [커피코트 동여의도점](https://store.naver.com/restaurants/detail?id=1858603062) :coffee:
 > #1500원 #드립커피골라 #1800원 #더치커피골라 #압도적인가성비
 
 ## 회사 근처 맛집(1) - 논현역
@@ -172,13 +174,15 @@
 - [박경자식당](https://store.naver.com/restaurants/detail?id=39698674) :beer:
 > #전통주 #배추전 #존맛탱
 
-- [플레이볼](https://store.naver.com/restaurants/detail?id=37028314) :beer::beer:
+- [플레이볼](https://store.naver.com/restaurants/detail?id=37028314) :beer::beer::beer:
 > #기네스 #하이네켄 #월드챔피언
+
+> 선정 이유: 챔피언이 따라 주시는 기네스를 먹어보면 내가 이제껏 마셨던 기네스는 기네스가 아니구나함.
 
 - [김숙수가게](https://store.naver.com/restaurants/detail?id=38676654)
 > ???!?
 
-## 우리 동네 맛집 - 봉천역
+## ~우리 동네 맛집~ - 봉천역 (이사함)
 ### 밥집
 - [조솊](https://store.naver.com/restaurants/detail?id=1345297479)
 > #파스타 #스테이크 #왕새우 #제주위트에일
