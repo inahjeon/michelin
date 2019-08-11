@@ -165,8 +165,8 @@
 
 > 선정 이유: 고퀄 안주와 매우 힙한 맥주 라인업. 최고.
 
-- [박경자식당](https://store.naver.com/restaurants/detail?id=39698674) :beer:
-> #전통주 #배추전 #존맛탱
+- [박경자식당](https://store.naver.com/restaurants/detail?id=39698674) :beer::beer:
+> #전통주술집 #배추전 #존맛탱 #90년대음악갬성
 
 - [플레이볼](https://store.naver.com/restaurants/detail?id=37028314) :beer::beer::beer:
 > #기네스 #하이네켄 #월드챔피언
