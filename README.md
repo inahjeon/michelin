@@ -81,12 +81,6 @@
 
 ## 술집
 
-### 마곡나루역
-- [카이운](https://store.naver.com/restaurants/detail?id=1277254346) :beer::beer::beer:
-> #이자카야 #시그니처생선튀김미쳐버려 #왕비쌈
-
-> :beer::beer::beer: 선정이유: 쉐프님의 훌륭한 안주와 맛있는 술. 사악한 가격만큼 맛있음.
-
 ### 강남역
 - [더부스](https://store.naver.com/restaurants/detail?id=35592900) :beer:
 > #피맥 #항상존맛 #치킨은근존맛 #코나카드..
@@ -138,7 +132,7 @@
 - [커피코트 동여의도점](https://store.naver.com/restaurants/detail?id=1858603062) :coffee:
 > #1500원 #드립커피골라 #1800원 #더치커피골라 #압도적인가성비
 
-## 회사 근처 맛집(1) - 논현역
+## ~회사 근처 맛집(1)~ - 논현역 (회사가 이사함)
 ### 밥집
 - [세타이수루](https://store.naver.com/restaurants/detail?entry=plt&id=37754520) :+1:
 > #규카츠 #워터에이징 #화로 #존맛탱
@@ -182,7 +176,15 @@
 - [김숙수가게](https://store.naver.com/restaurants/detail?id=38676654)
 > ???!?
 
-## ~우리 동네 맛집~ - 봉천역 (이사함)
+## 우리 동네 맛집(2)
+
+### 마곡나루역
+- [카이운](https://store.naver.com/restaurants/detail?id=1277254346) :beer::beer::beer:
+> #이자카야 #시그니처생선튀김미쳐버려 #왕비쌈
+
+> :beer::beer::beer: 선정이유: 쉐프님의 훌륭한 안주와 맛있는 술. 사악한 가격만큼 맛있음.
+
+## ~우리 동네 맛집(1)~ - 봉천역 (이사함)
 ### 밥집
 - [조솊](https://store.naver.com/restaurants/detail?id=1345297479)
 > #파스타 #스테이크 #왕새우 #제주위트에일
