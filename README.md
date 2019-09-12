@@ -65,6 +65,11 @@
 - [서울동](https://store.naver.com/restaurants/detail?id=1154051555)
 > ??? 안가봄 #우니동
 
+### 노량진역
+- [운봉산장](https://store.naver.com/restaurants/detail?id=19867548) :+1::+1::+1:
+> #양고기 #수육 #뚝배기탕 #JMT
+
+
 ### 이태원역
 - [mishmash](https://store.naver.com/restaurants/detail?id=37929317) :+1::+1:
 > #퓨전한식 #장아찌튀김 #포키포크 #존맛
