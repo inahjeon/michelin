@@ -26,6 +26,10 @@
 - [호우초밥](https://store.naver.com/restaurants/detail?id=33460552)
 > #가성비 #신선한초밥
 
+### 신논현역
+- [정돈](https://store.naver.com/restaurants/detail?id=1183428863) :+1:
+> #서울3대돈까스 #살살녹음 #JMT
+
 ### 선릉역
 - [모범떡볶이](https://store.naver.com/restaurants/detail?id=36276816)
 > #차돌떡볶이 #라면사리 #김말이
@@ -67,7 +71,7 @@
 
 ### 노량진역
 - [운봉산장](https://store.naver.com/restaurants/detail?id=19867548) :+1::+1::+1:
-> #양고기 #수육 #뚝배기탕 #JMT
+> #양고기맛집 #수육 #뚝배기탕 #JMT
 
 
 ### 이태원역
