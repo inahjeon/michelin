@@ -209,6 +209,9 @@
 - [띠아낭](https://store.naver.com/restaurants/detail?entry=plt&id=1089612061) :+1::+1:
 > #베트남음식 #현지맛 #반미맛집
 
+- [감사한양](https://store.naver.com/restaurants/detail?entry=plt&id=383969339) :+1:
+> #화로구이양갈비 #양갈비는항상옳다
+
 ### 마곡나루역
 - [카이운](https://store.naver.com/restaurants/detail?id=1277254346) :beer::beer::beer:
 > #이자카야 #시그니처생선튀김미쳐버려 #왕비쌈
