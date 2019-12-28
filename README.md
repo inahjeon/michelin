@@ -206,6 +206,9 @@
 - [패스코드](https://store.naver.com/restaurants/detail?id=475666916) :coffee:
 > #이쁜브런치카페 #수프괜춘 #리모트하기좋음
 
+- [띠아낭](https://store.naver.com/restaurants/detail?entry=plt&id=1089612061) :+1::+1:
+> #베트남음식 #현지맛 #반미맛집
+
 ### 마곡나루역
 - [카이운](https://store.naver.com/restaurants/detail?id=1277254346) :beer::beer::beer:
 > #이자카야 #시그니처생선튀김미쳐버려 #왕비쌈
