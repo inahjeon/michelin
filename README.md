@@ -73,6 +73,11 @@
 - [운봉산장](https://store.naver.com/restaurants/detail?id=19867548) :+1::+1::+1:
 > #양고기맛집 #수육 #뚝배기탕 #JMT
 
+> :+1::+1::+1: 선정 이유: 흔치않은 양고기 수육 매우 맛남.
+
+### 녹사평역
+- [매니멀스모크하우스](https://store.naver.com/restaurants/detail?id=36624877) :+1::+1:
+> #텍사스바베큐 #브리스킷 #훈제향
 
 ### 이태원역
 - [mishmash](https://store.naver.com/restaurants/detail?id=37929317) :+1::+1:
@@ -113,6 +118,9 @@
 > #전통주 #종류다양 #존맛탱
 
 > 선정 이유: 술 메뉴만 10페이지가 넘는 다양한 전통주 전문 술집. 그리고 맛있는 안주
+
+- [tas](https://store.naver.com/restaurants/detail?id=1613244757) :beer::beer:
+> #연남힙한baobar #맛난맥주 #맛난내추럴와인
 
 ### 종로3가역
 - [서울집시](https://store.naver.com/restaurants/detail?entry=plt&id=1311007811) :beer::beer:
@@ -194,6 +202,9 @@
 ### 증미역
 - [유림보신원](https://store.naver.com/restaurants/detail?id=19866704) :+1::+1::+1:
 > #인생닭도리탕 #토종닭짱큼 #양념감칠맛JMT #소주를부르는맛
+
+- [패스코드](https://store.naver.com/restaurants/detail?id=475666916) :coffee:
+> #이쁜브런치카페 #수프괜춘 #리모트하기좋음
 
 ### 마곡나루역
 - [카이운](https://store.naver.com/restaurants/detail?id=1277254346) :beer::beer::beer:
