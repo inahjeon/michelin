@@ -212,6 +212,10 @@
 - [감사한양](https://store.naver.com/restaurants/detail?entry=plt&id=383969339) :+1:
 > #화로구이양갈비 #양갈비는항상옳다
 
+### 가양역
+- [월정떼루아](https://store.naver.com/restaurants/detail?entry=plt&id=1692327048) :+1::+1:
+> #소고기는항상옳다 #밑반찬훌륭 #비빔밥훌륭 #가격적당
+
 ### 마곡나루역
 - [카이운](https://store.naver.com/restaurants/detail?id=1277254346) :beer::beer::beer:
 > #이자카야 #시그니처생선튀김미쳐버려 #왕비쌈
