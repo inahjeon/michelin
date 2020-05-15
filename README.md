@@ -75,6 +75,10 @@
 
 > :+1::+1::+1: 선정 이유: 흔치않은 양고기 수육 매우 맛남.
 
+### 영등포역
+- [청기와타운](https://store.naver.com/restaurants/detail?id=1244027748) :+1:
+> #LA갈비 #아보카도육회 #갈비맛잇음
+
 ### 녹사평역
 - [매니멀스모크하우스](https://store.naver.com/restaurants/detail?id=36624877) :+1::+1:
 > #텍사스바베큐 #브리스킷 #훈제향
