@@ -9,9 +9,25 @@
 
 - :+1::+1:: 멀리(=1시간 이내) 찾아 갈 만한 훌륭한 맛집
 
-- :+1::+1::+1:: 다른 곳과 차별화 되는 그 곳만의 특별함이 있는 훌륭한 맛집
+- :+1::+1::+1:: 다른 곳과 차별화 되는 그 곳만의 특별함이 있는 훌륭한 맛집.
 
 (:+1:=:coffee:=:beer:)
+
+## fine-dining 맛집
+
+아래 맛집 영역과 가격차이가 심해 따로 펑가함. 지극히 개인 취향 주의.
+
+### 압구정로데오역
+
+- [L'Impression](https://store.naver.com/restaurants/detail?id=1203572380) :+1::+1::+1:
+> #처음부터3대진미 #모든음식이다좋았다 #와인페어링오짐 #디너20만원
+
+> :+1::+1::+1: 선정 이유: 개인적으로 가본 파인다이닝 식당 중 제일 퀄리티가 좋았음. 와인페어링 시 올드빈 와인을 맛볼 수 있었는데, 그 경험이 매우 좋았음
+
+### 청담역
+
+- [익스퀴진](https://store.naver.com/restaurants/detail?id=38781115) :+1::+1:
+> #파인다이닝 #한식 #존맛탱
 
 ## 맛집
 
@@ -44,13 +60,6 @@
 ### 신사역
 - [우와](https://store.naver.com/restaurants/detail?id=1653280910) :+1::+1:
 > #야끼소바 #오꼬노미야끼 #철판 #존맛탱
-
-- [미미면가](https://store.naver.com/restaurants/detail?entry=plt&id=21693586)
-> ???? 안가봄
-
-### 청담역
-- [익스퀴진](https://store.naver.com/restaurants/detail?id=38781115) :+1::+1:
-> #파인다이닝 #한식 #존맛탱
 
 ### 어린이대공원역
 - [빠오즈푸](https://store.naver.com/restaurants/detail?id=20757891) :+1::+1:
@@ -236,12 +245,6 @@
 
 - [우리동네국수집](https://store.naver.com/restaurants/detail?id=38745684)
 > #고기국수 #저렴 #양많이
-
-- [우된장](https://store.naver.com/restaurants/detail?id=361292335)
-> ???!?
-
-- [야베](https://blog.naver.com/deel19/220852325425)
-> ???
 
 - [토끼네마굿간](https://store.naver.com/restaurants/detail?entry=plt&id=1112384421) :+1:
 > #드라이플라워 #엔쵸비파스타 #파스타맛집
