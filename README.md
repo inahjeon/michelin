@@ -96,6 +96,10 @@
 - [mishmash](https://store.naver.com/restaurants/detail?id=37929317) :+1::+1:
 > #퓨전한식 #장아찌튀김 #포키포크 #존맛
 
+### 삼각지역
+- [몽탄](https://store.naver.com/restaurants/detail?id=1810277002) :+1::+1:
+> #우대갈비맛집 #밑반찬맛집 #엄청난웨이팅
+
 ### 을지로4가역
 - [우래옥](https://store.naver.com/restaurants/detail?entry=plt&id=11679381) :+1::+1::+1:
 > #평양냉면 #메밀향듬뿍 #존맛
