@@ -163,6 +163,9 @@
 - [더부스](https://store.naver.com/restaurants/detail?id=35592900) :beer:
 > #피맥 #항상존맛 #치킨은근존맛 #코나카드..
 
+- [원가바](https://store.naver.com/restaurants/detail?id=991852038) :beer:
+> #위스키바 #가성비갑
+
 ### 논현역
 - [스탠서울](https://store.naver.com/restaurants/detail?id=1061866711) :beer::beer::beer:
 > #크래프트맥주 #언필터드라거 #사장님맥덕
@@ -172,7 +175,7 @@
 - [박경자식당](https://store.naver.com/restaurants/detail?id=39698674) :beer::beer:
 > #전통주술집 #배추전 #존맛탱 #90년대음악갬성
 
-- [플레이볼](https://store.naver.com/restaurants/detail?id=37028314) :beer::beer::beer:
+- ~[플레이볼](https://store.naver.com/restaurants/detail?id=37028314) :beer::beer::beer:~ 사라짐..
 > #기네스 #하이네켄 #월드챔피언
 
 > 선정 이유: 챔피언이 따라 주시는 기네스를 먹어보면 내가 이제껏 마셨던 기네스는 기네스가 아니구나함.
