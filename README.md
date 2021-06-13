@@ -24,6 +24,11 @@
 
 > :+1::+1::+1: 선정 이유: 개인적으로 가본 파인다이닝 식당 중 제일 퀄리티가 좋았음. 와인페어링 시 올드빈 와인을 맛볼 수 있었는데, 그 경험이 매우 좋았음
 
+- [밍글스](https://store.naver.com/restaurants/detail?id=35215752) :+1::+1::+1:
+> #한식 #시그니처페이링 #너무달지않고입맛에딱맛는디저트
+
+> :+1::+1::+1: 선정 이유: 시그니처 페어링으로 했는데, 술과 음식의 조화가 너무 좋았음. 이게 진짜 페어링이구나 하는 느낌을 받음.
+
 ### 청담역
 
 - [익스퀴진](https://store.naver.com/restaurants/detail?id=38781115) :+1::+1:
@@ -112,6 +117,9 @@
 - [몽탄](https://store.naver.com/restaurants/detail?id=1810277002) :+1::+1:
 > #우대갈비맛집 #밑반찬맛집 #엄청난웨이팅
 
+- [Nm](https://store.naver.com/restaurants/detail?id=1814910363) :+1:
+> #내추럴와인바 #친절한설명 #훌륭한디쉬
+
 ### 여의도역
 - [진주집](https://store.naver.com/restaurants/detail?id=11678773)
 > #비빔국수 #콩국수
@@ -128,6 +136,9 @@
 
 > 선정 이유: 최고의 평양 냉면 맛집.
 
+- [끽비어컴퍼니](https://store.naver.com/restaurants/detail?id=1987256089) :+1:
+> #힙지로수제맥주 #괜찮은국내맥주라인업
+
 ### 대림역
 - [왕기마라향과](https://store.naver.com/restaurants/detail?entry=plt&id=19935365)
 > #마라샹궈 #찰진매운맛 #존맛
@@ -138,6 +149,8 @@
 
 - [띠아낭](https://store.naver.com/restaurants/detail?entry=plt&id=1089612061) :+1:
 > #베트남음식 #현지맛 #반미맛집
+
+> 골목식당에 나와서 이제는 갈수없게됨...
 
 - [감사한양](https://store.naver.com/restaurants/detail?entry=plt&id=383969339) :+1:
 > #화로구이양갈비 #양갈비는항상옳다
