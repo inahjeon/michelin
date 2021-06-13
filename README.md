@@ -117,9 +117,6 @@
 - [몽탄](https://store.naver.com/restaurants/detail?id=1810277002) :+1::+1:
 > #우대갈비맛집 #밑반찬맛집 #엄청난웨이팅
 
-- [Nm](https://store.naver.com/restaurants/detail?id=1814910363) :+1:
-> #내추럴와인바 #친절한설명 #훌륭한디쉬
-
 ### 여의도역
 - [진주집](https://store.naver.com/restaurants/detail?id=11678773)
 > #비빔국수 #콩국수
@@ -135,9 +132,6 @@
 > #평양냉면 #메밀향듬뿍 #존맛
 
 > 선정 이유: 최고의 평양 냉면 맛집.
-
-- [끽비어컴퍼니](https://store.naver.com/restaurants/detail?id=1987256089) :+1:
-> #힙지로수제맥주 #괜찮은국내맥주라인업
 
 ### 대림역
 - [왕기마라향과](https://store.naver.com/restaurants/detail?entry=plt&id=19935365)
@@ -210,6 +204,13 @@
 - [안씨막걸리](https://store.naver.com/restaurants/detail?entry=plt&id=37704375) :beer::beer:
 > #매우매우매우맛난안주 #전통주
 
+- [우리슈퍼](https://store.naver.com/restaurants/detail?id=18727430) :beer:
+- #맥주바틀샵 #가맥
+
+### 삼각지역
+- [Nm](https://store.naver.com/restaurants/detail?id=1814910363) :beer:
+> #내추럴와인바 #친절한설명 #훌륭한디쉬
+
 ### 홍대입구역
 - [산울림1992](https://store.naver.com/restaurants/detail?id=13123910) :beer::beer::beer:
 > #전통주 #종류다양 #존맛탱
@@ -222,6 +223,10 @@
 ### 종로3가역
 - [서울집시](https://store.naver.com/restaurants/detail?entry=plt&id=1311007811) :beer::beer:
 > #크래프트맥주 #브루어리 #존맛탱
+
+### 을지로4가역
+- [끽비어컴퍼니](https://store.naver.com/restaurants/detail?id=1987256089) :beer:
+> #힙지로수제맥주 #괜찮은국내맥주라인업
 
 ### 서울숲역
 - [어메이징브루잉컴퍼니](https://store.naver.com/restaurants/detail?entry=plt&id=37558917) :beer::beer:
