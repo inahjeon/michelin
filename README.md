@@ -92,6 +92,9 @@
 - [오복수산](https://store.naver.com/restaurants/detail?id=37728675) :+1:
 > #카이센동 #사케동 #사케우니이쿠라동 #싱싱 #존맛탱
 
+- [탐스피자](https://store.naver.com/restaurants/detail?id=1100429345) :+1:
+> #미쿡피자 #리얼미국버팔로윙
+
 ### 노량진역
 - [운봉산장](https://store.naver.com/restaurants/detail?id=19867548) :+1::+1::+1:
 > #양고기맛집 #수육 #뚝배기탕 #JMT
@@ -220,8 +223,15 @@
 
 > 선정 이유: 술 메뉴만 10페이지가 넘는 다양한 전통주 전문 술집. 그리고 맛있는 안주
 
-- [tas](https://store.naver.com/restaurants/detail?id=1613244757) :beer::beer:
+- [tas](https://store.naver.com/restaurants/detail?id=1613244757) :beer:
 > #연남힙한baobar #맛난맥주 #맛난내추럴와인
+
+- [토끼바](https://map.naver.com/v5/entry/place/1848575869) :beer:
+> #토끼소주 #칵테일바
+
+### 가좌역
+- [연남마실](https://map.naver.com/v5/entry/place/1486816049) :beer:
+> #힙한칵테일바
 
 ### 종로3가역
 - [서울집시](https://store.naver.com/restaurants/detail?entry=plt&id=1311007811) :beer::beer:
