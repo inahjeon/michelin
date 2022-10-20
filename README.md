@@ -82,6 +82,10 @@
 - [빠오즈푸](https://store.naver.com/restaurants/detail?id=20757891) :+1::+1:
 > #만두 #육즙 #존맛탱
 
+### 구의역
+- [동래정](https://map.naver.com/v5/entry/place/1781760595) :+1:
+> #가브리살 #멜조림밥 #고기육즙폭발
+
 ### 삼성중앙역
 - [비야게레로](https://store.naver.com/restaurants/detail?entry=plt&id=36528809) :+1::+1::+1:
 > #멕시코요리 #타코 #수요미식회 #존맛탱
@@ -216,6 +220,10 @@
 ### 삼각지역
 - [Nm](https://store.naver.com/restaurants/detail?id=1814910363) :beer:
 > #내추럴와인바 #친절한설명 #훌륭한디쉬
+
+### 마포역
+- [삼씨오화](https://map.naver.com/v5/entry/place/1661286290) :beer:
+> #전통주 #삼합
 
 ### 홍대입구역
 - [산울림1992](https://store.naver.com/restaurants/detail?id=13123910) :beer::beer::beer:
