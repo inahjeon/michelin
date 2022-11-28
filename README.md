@@ -86,6 +86,16 @@
 - [동래정](https://map.naver.com/v5/entry/place/1781760595) :+1:
 > #가브리살 #멜조림밥 #고기육즙폭발
 
+- [불난 닭발](https://map.naver.com/v5/entry/place/13157800) :+1:
+> #닭발 #오돌뼈 #주먹밥
+
+### 아차산역
+- [스시 오리](https://map.naver.com/v5/entry/place/1493442103) :+1:
+> #퀄리티스시
+
+- [할아버지 손두부](https://map.naver.com/v5/entry/place/38275856) :+1:
+> #모두부 #순두부 #막걸리 #메뉴끝
+
 ### 삼성중앙역
 - [비야게레로](https://store.naver.com/restaurants/detail?entry=plt&id=36528809) :+1::+1::+1:
 > #멕시코요리 #타코 #수요미식회 #존맛탱
