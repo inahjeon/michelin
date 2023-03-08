@@ -32,7 +32,7 @@
 - [세타이수루](https://store.naver.com/restaurants/detail?entry=plt&id=37754520) :+1:
 > #규카츠 #워터에이징 #화로 #존맛탱
 
-- [어랑](https://store.naver.com/restaurants/detail?id=475744961) :+1:
+- [어랑](https://store.naver.com/restaurants/detail?id=475744961)
 > #생선구이 #정성이담긴밥 #묵은지고등어 #고갈비
 
 - [부엉이식당](https://store.naver.com/restaurants/detail?entry=plt&id=1824038108)
@@ -82,6 +82,9 @@
 
 - [호랑이초밥](https://map.naver.com/v5/entry/place/1982397795) :+1:
 > #배달맛집 #퀄리티초밥
+
+- [이가네양꼬치](https://map.naver.com/v5/entry/place/1059490459) :+1:
+> #양갈비 #양등심꼬치
 
 ### 구의역
 - [동래정](https://map.naver.com/v5/entry/place/1781760595) :+1:
@@ -190,17 +193,27 @@
 
 ### 여의도역
 - [진주집](https://store.naver.com/restaurants/detail?id=11678773)
-> #비빔국수 #콩국수
+> #여백지하근본맛집 #비빔국수 #콩국수
+
+- [별미볶음점](https://map.naver.com/v5/entry/place/32817544)
+> #여백지하근본맛집 #제육맛집
 
 - [신촌칼국수 동여의도점](https://store.naver.com/restaurants/detail?id=1041776972)
 > #해장 #미나리 #버섯무한리필 #양념소스JMT
 
 - [깡장양곱창](https://store.naver.com/restaurants/detail?entry=pll&id=38556373)
-> #곱창맛집 #볶음밥 #JMT
+> #여백지하근본맛집 #곱창맛집 #볶음밥 #JMT
+
+- [하카타분코](https://map.naver.com/v5/entry/place/1440197214)
+> #마제소바 #라멘
 
 ### 대림역
 - [왕기마라향과](https://store.naver.com/restaurants/detail?entry=plt&id=19935365)
 > #마라샹궈 #찰진매운맛 #존맛
+
+### 염창역
+- [숯과소금](https://map.naver.com/v5/entry/place/1233426902) :+1:
+> #고기에진심인사장님 #육즙팡팡고기
 
 ### 등촌역
 - [야끼토리](https://store.naver.com/restaurants/detail?id=1741314746) :beer:
