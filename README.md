@@ -40,9 +40,6 @@
 - [봉피양(서초점)](https://store.naver.com/restaurants/detail?id=12973914) :+1:
 > #평양냉면 #진한고기육수 #존맛탱
 
-- [호우초밥](https://store.naver.com/restaurants/detail?id=33460552)
-> #가성비 #신선한초밥
-
 ### 논현역
 - [세타이수루](https://store.naver.com/restaurants/detail?entry=plt&id=37754520) :+1:
 > #규카츠 #워터에이징 #화로 #존맛탱
@@ -184,18 +181,9 @@
 > #위스키바 #가성비갑
 
 ### 논현역
-- [스탠서울](https://store.naver.com/restaurants/detail?id=1061866711) :beer::beer::beer:
-> #크래프트맥주 #언필터드라거 #사장님맥덕
-
-> 선정 이유: 고퀄 안주와 매우 힙한 맥주 라인업. 최고.
 
 - [박경자식당](https://store.naver.com/restaurants/detail?id=39698674) :beer::beer:
 > #전통주술집 #배추전 #존맛탱 #90년대음악갬성
-
-- ~[플레이볼](https://store.naver.com/restaurants/detail?id=37028314) :beer::beer::beer:~ 사라짐..
-> #기네스 #하이네켄 #월드챔피언
-
-> 선정 이유: 챔피언이 따라 주시는 기네스를 먹어보면 내가 이제껏 마셨던 기네스는 기네스가 아니구나함.
 
 ### 신사역
 - [미켈러바](https://store.naver.com/restaurants/detail?id=36877874) :beer:
@@ -211,11 +199,12 @@
 - [야끼토리](https://store.naver.com/restaurants/detail?id=1741314746) :beer:
 > #일식꼬치구이맛집 #야끼토리
 
-### 마곡나루역
-- [카이운](https://store.naver.com/restaurants/detail?id=1277254346) :beer::beer::beer:
-> #이자카야 #시그니처생선튀김미쳐버려 #왕비쌈
+- [우미마토](https://map.naver.com/v5/entry/place/1504474078?id=1504474078) :+1::+1:
+> #배달초밥맛집 #오마카세대존맛
 
-> :beer::beer::beer: 선정이유: 쉐프님의 훌륭한 안주와 맛있는 술. 사악한 가격만큼 맛있음.
+### 증미역
+- 닭발파이터 :+1:
+> #강서구최고닭밝맛집 #인생닭발 #불맛 #쏘주각 #김치전서비스
 
 ### 녹사평역
 - [성광대도](https://store.naver.com/restaurants/detail?id=38654057) :beer::beer:
@@ -263,15 +252,12 @@
 - [어메이징브루잉컴퍼니](https://store.naver.com/restaurants/detail?entry=plt&id=37558917) :beer::beer:
 > #수제맥주 #종류다양 #야외테이블
 
-## 배달
+## 통영
 
-### 증미역
-- 게 매니아(홍게양대게군) :+1:
-> #대게 #홍게 #가성비갑 #홍게8마리3만원 #배민맛집
+(통영사람이라서 추가해봄)
 
-- 닭발파이터 :+1::+1:
-> #강서구최고닭밝맛집 #인생닭발 #불맛 #쏘주각 #김치전서비스
+- [플레이볼](https://store.naver.com/restaurants/detail?id=37028314) :beer::beer::beer:
+> #기네스 #하이네켄 #월드챔피언
 
-### 등촌역
-- [우미마토](https://map.naver.com/v5/entry/place/1504474078?id=1504474078) :+1::+1::+1:
-> #배달초밥맛집 #오마카세대존맛
+> 선정 이유: 챔피언이 따라 주시는 기네스를 먹어보면 내가 이제껏 마셨던 기네스는 기네스가 아니구나함.
+
