@@ -86,6 +86,9 @@
 - [이가네양꼬치](https://map.naver.com/v5/entry/place/1059490459) :+1:
 > #양갈비 #양등심꼬치
 
+- [세스크멘슬](https://map.naver.com/v5/entry/place/1057225152) :+1:
+> #샤퀴테리 #소시지 #와인
+
 ### 구의역
 - [동래정](https://map.naver.com/v5/entry/place/1781760595) :+1:
 > #가브리살 #멜조림밥 #고기육즙폭발
@@ -183,6 +186,10 @@
 
 - [elope](https://store.naver.com/restaurants/detail?id=1867655335) :beer::beer:
 > #와인바 #분위기갑
+
+### 명동역
+- [명화당](https://map.naver.com/v5/entry/place/11727216)
+> #명화김밥
 
 ### 삼각지역
 - [몽탄](https://store.naver.com/restaurants/detail?id=1810277002) :+1::+1:
