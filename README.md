@@ -58,6 +58,10 @@
 - [김돈이](https://map.naver.com/v5/entry/place/19578744) :+1:
 > #제주돼지 #육즙팡팡
 
+### 매봉역
+- [도곡여울](https://map.naver.com/v5/entry/place/1351442011) :beer:
+> #사케바 #맛난안주
+
 ### 선정릉역
 - [능라도](https://store.naver.com/restaurants/detail?id=37274591) :+1:
 > #평양냉면 #온반 #존맛탱
@@ -104,6 +108,15 @@
 
 - [송쉐프](https://map.naver.com/v5/entry/place/1091636562)
 > #중식 #음식이맛있음
+
+- [아쉬트리](https://map.naver.com/v5/entry/place/1083144317) :beer:
+> #수제맥주 #브루어리
+
+- [민정식당](https://map.naver.com/v5/entry/place/36797971) :+1:
+> #소모듬수육 #술을부르는
+
+- [진곱창](https://map.naver.com/v5/entry/place/1334029929) :+1:
+> #퀄리티한우곱창 #큼직큼직
 
 ### 종로3가역
 - [서울집시](https://store.naver.com/restaurants/detail?entry=plt&id=1311007811) :beer::beer:
@@ -272,6 +285,10 @@
 
 - [익스퀴진](https://store.naver.com/restaurants/detail?id=38781115) :+1::+1:
 > #파인다이닝 #한식 #존맛탱
+
+## 의왕
+- [조가네갑오징어](https://map.naver.com/v5/entry/place/31750903) :+1:
+> #갑오징어 #찰진양념
 
 ## 통영
 
