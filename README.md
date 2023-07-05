@@ -118,6 +118,9 @@
 - [진곱창](https://map.naver.com/v5/entry/place/1334029929) :+1:
 > #퀄리티한우곱창 #큼직큼직
 
+- [꼼박사](https://map.naver.com/v5/entry/place/994911874) :+1:
+> #꼼장어 #짚불 #술이술술
+
 ### 종로3가역
 - [서울집시](https://store.naver.com/restaurants/detail?entry=plt&id=1311007811) :beer::beer:
 > #크래프트맥주 #브루어리 #존맛탱
