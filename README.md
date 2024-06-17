@@ -100,9 +100,6 @@
 - [불난 닭발](https://map.naver.com/v5/entry/place/13157800) :+1:
 > #닭발 #오돌뼈 #주먹밥
 
-- [순대실록](https://map.naver.com/v5/entry/place/1928156993) :+1:
-> #국밥든든 #순대스테이크 #밥집인데소주먹기좋음
-
 - [플록](https://map.naver.com/v5/entry/place/1334577184) :beer:
 > #프렌치 #와인
 
@@ -200,9 +197,6 @@
 - [mishmash](https://store.naver.com/restaurants/detail?id=37929317) :+1::+1:
 > #퓨전한식 #장아찌튀김 #포키포크 #존맛
 
-- [elope](https://store.naver.com/restaurants/detail?id=1867655335) :beer::beer:
-> #와인바 #분위기갑
-
 ### 명동역
 - [명화당](https://map.naver.com/v5/entry/place/11727216)
 > #명화김밥
@@ -210,9 +204,6 @@
 ### 삼각지역
 - [몽탄](https://store.naver.com/restaurants/detail?id=1810277002) :+1::+1:
 > #우대갈비맛집 #밑반찬맛집 #엄청난웨이팅
-
-- [Nm](https://store.naver.com/restaurants/detail?id=1814910363) :beer:
-> #내추럴와인바 #친절한설명 #훌륭한디쉬
 
 ### 여의도역
 - [진주집](https://store.naver.com/restaurants/detail?id=11678773)
@@ -297,7 +288,7 @@
 
 (통영사람이라서 추가해봄)
 
-- [유람선실내포장마차] :+1::+1::+1:
+- [유람선실내포장마차](https://map.naver.com/p/entry/place/15039929) :+1::+1::+1:
 > #꼼장어 #겉바속쫄 #불향
 
 > 선정 이유: 연탄불에 구워주시는 꼼장어 리얼 맛있음. 소금구이 꼼장어 살면서 먹었던 것 중 원탑.
